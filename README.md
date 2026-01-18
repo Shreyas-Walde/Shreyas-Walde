@@ -94,6 +94,8 @@ Recently I've been into 🏂 🏋️‍♂️ 🧗‍♂️
   <img src="https://img.shields.io/badge/Dify-000000?style=for-the-badge" />
 </p>
 
+![snake gif](https://github.com/Shreyas-Walde/Shreyas-Walde/blob/output/github-snake-dark.svg)
+
 
 
 
